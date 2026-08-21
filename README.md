@@ -78,12 +78,19 @@ Each downloaded file was imported as an Excel Table and joined on Facility ID, a
 
 ## Skills Used
 Tables -> Imported each CMS CSV as a structured Excel Table
+
 Text functions -> Fixed leading-zero CCNs, standardized state codes
+
 Logical functions -> IF/AND-based over/under-performer flags, handled "Not Available" codes
+
 Lookup functions -> XLOOKUP joins across files on Facility ID
+
 Statistical functions -> AVERAGE, CORREL, QUARTILE.INC for distribution and relationship analysis
+
 Conditional aggregation -> AVERAGEIFS / COUNTIFS to summarize by state and ownership type
+
 Charts -> Filled map, scatter plot with trendline, ownership bar chart
+
 Collaboration -> Sheet protection and hidden non-dashboard sheets on the final dashboard
 
 ---
